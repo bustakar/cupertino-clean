@@ -1,0 +1,89 @@
+{
+  "directories": [
+    {
+      "path": "~/Library/Developer/Xcode/DerivedData",
+      "name": "Xcode Derived Data",
+      "tags": ["xcode"]
+    },
+    {
+      "path": "~/Library/Developer/Xcode/iOS Device Support",
+      "name": "Xcode iOS Device Support",
+      "tags": ["xcode"]
+    },
+    {
+      "path": "~/Library/Developer/Xcode/Archives",
+      "name": "Xcode Archives",
+      "tags": ["xcode"]
+    },
+    {
+      "path": "~/Library/Developer/CoreSimulator",
+      "name": "Xcode Core Simulator",
+      "tags": ["xcode"]
+    },
+    {
+      "path": "~/Library/Caches",
+      "name": "User Library Caches",
+      "tags": ["system"]
+    },
+    {
+      "path": "/Library/Caches",
+      "name": "System Library Caches",
+      "tags": ["system"]
+    },
+    {
+      "path": "~/.Trash",
+      "name": "Trash",
+      "tags": ["user"]
+    },
+    {
+      "path": "~/Library/Application Support/Google/Chrome/Default/Cache",
+      "name": "Chrome Cache",
+      "tags": ["browser"]
+    },
+    {
+      "path": "~/Library/Safari/LocalStorage",
+      "name": "Safari Cache",
+      "tags": ["browser"]
+    },
+    {
+      "path": "/opt/homebrew/var/cache",
+      "name": "Homebrew Cache",
+      "tags": ["dev"]
+    },
+    {
+      "path": "~/.npm",
+      "name": "npm Cache",
+      "tags": ["dev"]
+    },
+    {
+      "path": "~/Library/Caches/CocoaPods",
+      "name": "CocoaPods Cache",
+      "tags": ["dev"]
+    },
+    {
+      "path": "~/Virtual Machines",
+      "name": "Virtual Machines",
+      "tags": ["vm"]
+    },
+    {
+      "path": "~/Library/Application Support/Steam/steamapps",
+      "name": "Steam Games",
+      "tags": ["gaming"]
+    },
+    {
+      "path": "~/Library/Application Support/discord/Cache",
+      "name": "Discord Cache",
+      "tags": ["app"]
+    },
+    {
+      "path": "~/Library/Application Support/Slack/Cache",
+      "name": "Slack Cache",
+      "tags": ["app"]
+    },
+    {
+      "path": "~/Library/Application Support/zoom.us/Cache",
+      "name": "Zoom Cache",
+      "tags": ["app"]
+    }
+  ]
+}

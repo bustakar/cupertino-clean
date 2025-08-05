@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoClean-master.dia",
+    "emit-module-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoClean-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoClean-master-emit-module.dia",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoClean-master.swiftdeps"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/ContentView.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/CupertinoCleanApp.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/CupertinoCleanApp~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/DirectoryLoader.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryLoader~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/DirectoryManager.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/DirectoryManager~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/FileInfo.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileInfo~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/FileScanner.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/FileScanner~partial.swiftmodule"
+  },
+  "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/karelbusta/Dev/projects/cupertino-clean/build/CupertinoClean.build/Debug/CupertinoClean.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

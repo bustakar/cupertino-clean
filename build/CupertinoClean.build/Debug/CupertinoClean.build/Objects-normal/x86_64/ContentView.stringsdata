@@ -1,0 +1,88 @@
+{
+  "source": "/Users/karelbusta/Dev/projects/cupertino-clean/CupertinoClean/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CupertinoClean",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan and clean your Mac",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Scan",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan Cleanable Files",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Directories to Scan",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select all",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Deselect all",
+        "location": {
+          "startingColumn": 92,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld repositories - %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear all",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Selected",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 181
+        }
+      }
+    ]
+  },
+  "version": 1
+}
